@@ -1,6 +1,8 @@
 <img src="https://github.com/rose-pine/rose-pine-theme/blob/master/assets/icon.png" width="64" />
 
-# Rosé Pine
+# Rosé Pine wallpapers
+
+> Maintained by our lovely community ☺️
 
 All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
