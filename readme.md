@@ -19,8 +19,6 @@ Beach Houses
 
 ![beachhouses](beachhouses.jpg)
 
-
-
 Bench
 
 ![bench](bench.JPG)
@@ -61,3 +59,10 @@ Sea Slug
 
 ![seaslug](seaslug.jpg)
 
+Block Wave Dawn
+
+![blockwavedawn](blockwavedawn.png)
+
+Block Wave Moon
+
+![blockwavemoon](blockwavemoon.png)
