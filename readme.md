@@ -11,58 +11,56 @@
     </a>
 </p>
 
-All photographed by [ThatOneCalculator](https://github.com/thatonecalculator). Could you tell I love the beach?
-
 ## Previews
 
-Beach Houses
+##### *Beach Houses* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![beachhouses](beachhouses.jpg)
 
-Bench
+##### *Bench* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![bench](bench.JPG)
 
-Field
+##### *Field* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![field](field.jpg)
 
-Flower
+##### *Flower* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![flower](flower.jpg)
 
-Ocean Drone 1
+##### *Ocean Drone I* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![oceandrone1](oceandrone1.JPG)
 
-Ocean Drone 2
+##### *Ocean Drone II* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![oceandrone2](oceandrone2.JPG)
 
-Point Overhead
+##### *Point Overhead* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![pointoverhead](pointoverhead.jpg)
 
-Rocks
+##### *Rocks* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![rocks](rocks.jpg)
 
-Roses
+##### *Roses* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![roses](roses.jpg)
 
-Seals
+##### *Seals* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![seals](seals.jpg)
 
-Sea Slug
+##### *Sea Slug* by [ThatOneCalculator](https://github.com/thatonecalculator)
 
 ![seaslug](seaslug.jpg)
 
-Block Wave Dawn
+##### *Block Wave Dawn* by [ng-hai](https://github.com/ng-hai)
 
 ![blockwavedawn](blockwavedawn.png)
 
-Block Wave Moon
+##### *Block Wave Moon* by [ng-hai](https://github.com/ng-hai)
 
 ![blockwavemoon](blockwavemoon.png)
