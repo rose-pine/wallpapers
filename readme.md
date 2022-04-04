@@ -11,6 +11,11 @@
     </a>
 </p>
 
+## [Generative](https://github.com/chunghha/go-rosepine-genart)
+###### *Mazes* by [Chunghha](https://github.com/chunghha/go-rosepine-genart)
+
+![](https://user-images.githubusercontent.com/24458075/161463017-65579295-3c28-47a9-9299-3bf233239636.png)
+
 ## Previews
 
 ##### *Beach Houses* by [ThatOneCalculator](https://github.com/thatonecalculator)
