@@ -62,6 +62,15 @@
 
 ![seaslug](seaslug.jpg)
 
+
+##### *Ascii* by [Kelpwave](https://github.com/kelpwave)
+
+![Ascii](ascii.png)
+
+##### *Ascii (Dawn)* by [Kelpwave](https://github.com/kelpwave)
+
+![asciidawn](asciidawn.png)
+
 ##### *Block Wave Dawn* by [ng-hai](https://github.com/ng-hai)
 
 ![blockwavedawn](blockwavedawn.png)
