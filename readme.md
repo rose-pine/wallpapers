@@ -67,7 +67,6 @@
 
 ![Ascii](ascii.png)
 
-
 ##### *Ascii (Dawn)* by [Kelpwave](https://github.com/kelpwave)
 
 ![asciidawn](asciidawn.png)
