@@ -110,7 +110,7 @@
 
 ![rocks](rocks.jpg)
 
-**_Roses_ by [ThatOneCalculator](https://github.com/thatonecalculator)
+**_Roses_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
 
 ![roses](roses.jpg)
 
