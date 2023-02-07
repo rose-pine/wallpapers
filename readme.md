@@ -11,70 +11,114 @@
     </a>
 </p>
 
-## [Generative](https://github.com/chunghha/go-rosepine-genart)
-###### *Mazes* by [Chunghha](https://github.com/chunghha/go-rosepine-genart)
+## Table of contents
 
-![](https://user-images.githubusercontent.com/24458075/161463017-65579295-3c28-47a9-9299-3bf233239636.png)
+- [Patterns & illustration](#patterns--illustration)
+- [Logotype](#logotype)
+- [Generative](#generative)
+- [Photography](#photography)
 
-## Previews
+## Patterns & illustration
 
-##### *Beach Houses* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![beachhouses](beachhouses.jpg)
-
-##### *Bench* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![bench](bench.JPG)
-
-##### *Field* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![field](field.jpg)
-
-##### *Flower* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![flower](flower.jpg)
-
-##### *Ocean Drone I* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![oceandrone1](oceandrone1.JPG)
-
-##### *Ocean Drone II* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![oceandrone2](oceandrone2.JPG)
-
-##### *Point Overhead* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![pointoverhead](pointoverhead.jpg)
-
-##### *Rocks* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![rocks](rocks.jpg)
-
-##### *Roses* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![roses](roses.jpg)
-
-##### *Seals* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![seals](seals.jpg)
-
-##### *Sea Slug* by [ThatOneCalculator](https://github.com/thatonecalculator)
-
-![seaslug](seaslug.jpg)
-
-
-##### *Ascii* by [Kelpwave](https://github.com/kelpwave)
-
-![Ascii](ascii.png)
-
-##### *Ascii (Dawn)* by [Kelpwave](https://github.com/kelpwave)
-
-![asciidawn](asciidawn.png)
-
-##### *Block Wave Dawn* by [ng-hai](https://github.com/ng-hai)
+**_Block Wave Dawn_ by [ng-hai](https://github.com/ng-hai)**
 
 ![blockwavedawn](blockwavedawn.png)
 
-##### *Block Wave Moon* by [ng-hai](https://github.com/ng-hai)
+**_Block Wave Moon_ by [ng-hai](https://github.com/ng-hai)**
 
 ![blockwavemoon](blockwavemoon.png)
+
+**_Leafy_ by [fvrests](https://github.com/fvrests)**
+
+![Leafy](leafy.png)
+
+**_Leafy (Moon)_ by [fvrests](https://github.com/fvrests)**
+
+![Leafy Moon](leafy-moon.png)
+
+**_Leafy (Dawn)_ by [fvrests](https://github.com/fvrests)**
+
+![Leafy Dawn](leafy-dawn.png)
+
+## Logotype
+
+**_Ascii_ by [Kelpwave](https://github.com/kelpwave)**
+
+![Ascii](ascii.png)
+
+**_Ascii (Dawn)_ by [Kelpwave](https://github.com/kelpwave)**
+
+![asciidawn](asciidawn.png)
+
+## [Generative](https://github.com/chunghha/go-rosepine-genart)
+
+**_Circle_ by [Chunghha](https://github.com/chunghha)**
+
+![Circle](rose_pine_circle.png)
+
+**_Circle2_ by [Chunghha](https://github.com/chunghha)**
+
+![Circle](rose_pine_circle2.png)
+
+**_ContourLine_ by [Chunghha](https://github.com/chunghha)**
+
+![Circle](rose_pine_contourline.png)
+
+**_Maze_ by [Chunghha](https://github.com/chunghha)**
+
+![Maze](rose_pine_maze.png)
+
+**_NoiseLine_ by [Chunghha](https://github.com/chunghha)**
+
+![Maze](rose_pine_noiseline.png)
+
+**_Shape_ by [Chunghha](https://github.com/chunghha)**
+
+![Maze](rose_pine_shape.png)
+
+## Photography
+
+**_Beach Houses_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![beachhouses](beachhouses.jpg)
+
+**_Bench_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![bench](bench.JPG)
+
+**_Field_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![field](field.jpg)
+
+**_Flower_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![flower](flower.jpg)
+
+**_Ocean Drone I_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![oceandrone1](oceandrone1.JPG)
+
+**_Ocean Drone II_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![oceandrone2](oceandrone2.JPG)
+
+**_Point Overhead_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![pointoverhead](pointoverhead.jpg)
+
+**_Rocks_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![rocks](rocks.jpg)
+
+**_Roses_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![roses](roses.jpg)
+
+**_Seals_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![seals](seals.jpg)
+
+**_Sea Slug_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![seaslug](seaslug.jpg)
+
