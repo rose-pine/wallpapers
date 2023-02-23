@@ -28,6 +28,12 @@
 
 ![blockwavemoon](blockwavemoon.png)
 
+**_Something Beautiful in Nature_ by [mvllow](https://github.com/mvllow)**
+
+> Alternative sizes: [Mobile](something-beautiful-in-nature-mobile.jpg)
+
+![Something Beautiful in Nature](something-beautiful-in-nature.jpg)
+
 **_Leafy_ by [fvrests](https://github.com/fvrests)**
 
 ![Leafy](leafy.png)
