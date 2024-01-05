@@ -84,43 +84,45 @@
 
 ## Photography
 
-**_🌙 Moon_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+> All photographs below by Kainoa Kanter are licensed as CC BY-NC-SA 4.0
+
+**_🌙 Moon_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![moon](moon.jpg)
 
-**_Field_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Field_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![field](field.jpg)
 
-**_Flower_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Flower_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![flower](flower.jpg)
 
-**_Ocean Drone I_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Ocean Drone I_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![oceandrone1](oceandrone1.JPG)
 
-**_Ocean Drone II_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Ocean Drone II_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![oceandrone2](oceandrone2.JPG)
 
-**_Point Overhead_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Point Overhead_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![pointoverhead](pointoverhead.jpg)
 
-**_Rocks_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Rocks_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![rocks](rocks.jpg)
 
-**_Roses_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Roses_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![roses](roses.jpg)
 
-**_Seals_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Seals_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![seals](seals.jpg)
 
-**_Sea Slug_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+**_Sea Slug_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![seaslug](seaslug.jpg)
 
