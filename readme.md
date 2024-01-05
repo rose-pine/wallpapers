@@ -84,6 +84,10 @@
 
 ## Photography
 
+**_🌙 Moon_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
+
+![moon](moon.jpg)
+
 **_Beach Houses_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
 
 ![beachhouses](beachhouses.jpg)
