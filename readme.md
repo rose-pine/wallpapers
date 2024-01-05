@@ -88,14 +88,6 @@
 
 ![moon](moon.jpg)
 
-**_Beach Houses_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
-
-![beachhouses](beachhouses.jpg)
-
-**_Bench_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
-
-![bench](bench.JPG)
-
 **_Field_ by [ThatOneCalculator](https://github.com/thatonecalculator)**
 
 ![field](field.jpg)
