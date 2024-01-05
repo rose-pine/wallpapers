@@ -84,7 +84,7 @@
 
 ## Photography
 
-> All photographs below by Kainoa Kanter are licensed as CC BY-NC-SA 4.0
+> *All photographs below by Kainoa Kanter are licensed as [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)*
 
 **_🌙 Moon_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
