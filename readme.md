@@ -90,13 +90,19 @@
 
 ![moon](moon.jpg)
 
-**_Field_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
+**_Clouds_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
+![clouds](clouds.JPG)
 
-![field](field.jpg)
+**_Bay_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
+![bay](bay.JPG)
 
 **_Flower_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
 ![flower](flower.jpg)
+
+**_Field_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
+
+![field](field.jpg)
 
 **_Ocean Drone I_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
