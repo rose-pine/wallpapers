@@ -34,7 +34,7 @@
 
 ![Something Beautiful in Nature](something-beautiful-in-nature.jpg)
 
-**_Leafy_ by [fvrests](https://github.com/fvrests)**
+**_Leafy_ by [fvrests](https://github.com/fvrests) (static or [dynamic](leafy-dynamic.heic))**
 
 ![Leafy](leafy.png)
 
