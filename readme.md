@@ -46,6 +46,10 @@
 
 ![Leafy Dawn](leafy-dawn.png)
 
+**Portal cake by [vidy007](https://github.com/vidy007)**
+
+![Portal cake](rosepine-portal-cake.png)
+
 ## Logotype
 
 **_Ascii_ by [Kelpwave](https://github.com/kelpwave)**
