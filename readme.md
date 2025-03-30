@@ -46,6 +46,10 @@
 
 ![Leafy Dawn](leafy-dawn.png)
 
+**Birb by [vidy007](https://github.com/vidy007)**
+
+![Birb](rosepine-birb.png)
+
 **Portal cake by [vidy007](https://github.com/vidy007)**
 
 ![Portal cake](rosepine-portal-cake.png)
