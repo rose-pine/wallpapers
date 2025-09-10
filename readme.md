@@ -64,6 +64,32 @@
 
 ![asciidawn](asciidawn.png)
 
+## Minimalist
+
+**Minimal Linux by [Henrique](https://github.com/Henriquehnnm)**
+
+![Min-linux](min-linux.jpg)
+
+**Minimal Debian by [Henrique](https://github.com/Henriquehnnm)**
+
+![Min-linux](min-debian.jpg)
+
+**Minimal Arch by [Henrique](https://github.com/Henriquehnnm)**
+
+![Min-linux](min-arch.jpg)
+
+**Minimal Fedora by [Henrique](https://github.com/Henriquehnnm)**
+
+![Min-linux](min-fedora.jpg)
+
+**Minimal Windows by [Henrique](https://github.com/Henriquehnnm)**
+
+![Min-linux](min-windows.jpg)
+
+**Minimal Mac by [Henrique](https://github.com/Henriquehnnm)**
+
+![Min-linux](min-mac.jpg)
+
 ## [Generative](https://github.com/chunghha/go-rosepine-genart)
 
 **_Circle_ by [Chunghha](https://github.com/chunghha)**
