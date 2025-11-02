@@ -90,6 +90,17 @@
 
 ![Min-linux](min-mac.jpg)
 
+## Arch BTW
+
+**Arch BTW by [Henrique](https://github.com/Henriquehnnm)**
+![Arch-main](Arch.png)
+
+**Arch BTW Moon by [Henrique](https://github.com/Henriquehnnm)**
+![Arch-main](Arch_moon.png)
+
+**Arch BTW Dawn by [Henrique](https://github.com/Henriquehnnm)**
+![Arch-main](Arch_dawn.png)
+
 ## [Generative](https://github.com/chunghha/go-rosepine-genart)
 
 **_Circle_ by [Chunghha](https://github.com/chunghha)**
