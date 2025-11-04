@@ -167,7 +167,6 @@
 ![seaslug](seaslug.jpg)
 
 
-![VoidBR-1](VoidBR-1.png)
 ![VoidBR-2](VoidBR-2.png)
 
 **_VoidBR_ by [Fernando Souza](https://github.com/tuxslack)**
