@@ -129,7 +129,9 @@
 
 ## Photography
 
-> *All photographs below by Kainoa Kanter are licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
+> *All photographs below are licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
+
+### Photos by Kainoa Kanter
 
 **_🌙 Moon_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
@@ -177,3 +179,16 @@
 
 ![seaslug](seaslug.jpg)
 
+### Photos by single_celled_photography
+
+**_River_ by [single_celled_photography](https://www.instagram.com/single_celled_photography/)**
+
+![river](river.jpg)
+
+**_River Tree_ by [single_celled_photography](https://www.instagram.com/single_celled_photography/)**
+
+![river_tree](river_tree.jpg)
+
+**_Through the Branches_ by [single_celled_photography](https://www.instagram.com/single_celled_photography/)**
+
+![through_the_branches](through_the_branches.jpg)
