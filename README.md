@@ -219,3 +219,15 @@
 **Minecraft Snow Night Moon by [ne](https://github.com/neyfua)**
 
 ![mc_snow_night_moon](MC_snow_night_moon.png)
+
+**Minecraft Snow Desert Sunset by [ne](https://github.com/neyfua)**
+
+![mc_snow_desert_sunset](MC_snow_desert_sunset.jpg)
+
+**Minecraft Cave Sunset View by [ne](https://github.com/neyfua)**
+
+![mc_cave_sunset_view](MC_cave_sunset_view.png)
+
+**Minecraft Dark House Rain by [ne](https://github.com/neyfua)**
+
+![mc_dark_house_rain](MC_dark_house_rain.png)
