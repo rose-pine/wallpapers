@@ -93,12 +93,15 @@
 ## Arch BTW
 
 **Arch BTW by [Henrique](https://github.com/Henriquehnnm)**
+
 ![Arch-main](Arch.png)
 
 **Arch BTW Moon by [Henrique](https://github.com/Henriquehnnm)**
+
 ![Arch-main](Arch_moon.png)
 
 **Arch BTW Dawn by [Henrique](https://github.com/Henriquehnnm)**
+
 ![Arch-main](Arch_dawn.png)
 
 ## [Generative](https://github.com/chunghha/go-rosepine-genart)
@@ -138,9 +141,11 @@
 ![moon](moon.jpg)
 
 **_Clouds_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
+
 ![clouds](clouds.JPG)
 
 **_Bay_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
+
 ![bay](bay.JPG)
 
 **_Flower_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
