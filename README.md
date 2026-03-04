@@ -86,6 +86,10 @@
 
 ![Min-linux](min-windows.jpg)
 
+**Minimal Windows 11 by [Smolder](https://github.com/smolderdev)**
+
+![Min-linux](min-windows-new.png)
+
 **Minimal Mac by [Henrique](https://github.com/Henriquehnnm)**
 
 ![Min-linux](min-mac.jpg)
