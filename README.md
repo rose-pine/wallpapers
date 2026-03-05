@@ -13,126 +13,169 @@
 
 ## Table of contents
 
-- [Patterns & illustration](#patterns--illustration)
-- [Logotype](#logotype)
+- [Illustration](#illustration)
 - [Generative](#generative)
+- [OS](#os)
+- [Minecraft](#minecraft)
 - [Photography](#photography)
 
-## Patterns & illustration
+## Illustration
 
 **_Block Wave Dawn_ by [ng-hai](https://github.com/ng-hai)**
 
-![blockwavedawn](blockwavedawn.png)
+![Block Wave Dawn](illustration/block-wave-dawn.png)
 
 **_Block Wave Moon_ by [ng-hai](https://github.com/ng-hai)**
 
-![blockwavemoon](blockwavemoon.png)
+![Block Wave Moon](illustration/block-wave-moon.png)
 
 **_Something Beautiful in Nature_ by [mvllow](https://github.com/mvllow)**
 
-> Alternative sizes: [Mobile](something-beautiful-in-nature-mobile.jpg)
+> Alternative sizes: [Mobile](illustration/something-beautiful-in-nature-mobile.jpg)
 
-![Something Beautiful in Nature](something-beautiful-in-nature.jpg)
+![Something Beautiful in Nature](illustration/something-beautiful-in-nature.jpg)
 
-**_Leafy_ by [fvrests](https://github.com/fvrests) (static or [dynamic](leafy-dynamic.heic))**
+**_Leafy_ by [fvrests](https://github.com/fvrests) (static or [dynamic](illustration/leafy-dynamic.heic))**
 
-![Leafy](leafy.png)
+![Leafy](illustration/leafy.png)
 
 **_Leafy (Moon)_ by [fvrests](https://github.com/fvrests)**
 
-![Leafy Moon](leafy-moon.png)
+![Leafy Moon](illustration/leafy-moon.png)
 
 **_Leafy (Dawn)_ by [fvrests](https://github.com/fvrests)**
 
-![Leafy Dawn](leafy-dawn.png)
+![Leafy Dawn](illustration/leafy-dawn.png)
 
-**Birb by [vidy007](https://github.com/vidy007)**
+**_Birb_ by [vidy007](https://github.com/vidy007)**
 
-![Birb](rosepine-birb.png)
+![Birb](illustration/birb.png)
 
-**Portal cake by [vidy007](https://github.com/vidy007)**
+**_Portal Cake_ by [vidy007](https://github.com/vidy007)**
 
-![Portal cake](rosepine-portal-cake.png)
+![Portal Cake](illustration/portal-cake.png)
 
-## Logotype
+**_Sum of n³ (n=1..9) = 2025_ by [kirasok](https://github.com/kirasok)**
+
+![n-cubed-2025](illustration/n-cubed-2025.png)
+
+**_Sum of n³ (n=1..9) = 2025 (Moon)_ by [kirasok](https://github.com/kirasok)**
+
+![n-cubed-2025-moon](illustration/n-cubed-2025-moon.png)
+
+**_Sum of n³ (n=1..9) = 2025 (Dawn)_ by [kirasok](https://github.com/kirasok)**
+
+![n-cubed-2025-dawn](illustration/n-cubed-2025-dawn.png)
 
 **_Ascii_ by [Kelpwave](https://github.com/kelpwave)**
 
-![Ascii](ascii.png)
+![Ascii](illustration/ascii.png)
 
 **_Ascii (Dawn)_ by [Kelpwave](https://github.com/kelpwave)**
 
-![asciidawn](asciidawn.png)
-
-## Minimalist
-
-**Minimal Linux by [Henrique](https://github.com/Henriquehnnm)**
-
-![Min-linux](min-linux.jpg)
-
-**Minimal Debian by [Henrique](https://github.com/Henriquehnnm)**
-
-![Min-linux](min-debian.jpg)
-
-**Minimal Arch by [Henrique](https://github.com/Henriquehnnm)**
-
-![Min-linux](min-arch.jpg)
-
-**Minimal Fedora by [Henrique](https://github.com/Henriquehnnm)**
-
-![Min-linux](min-fedora.jpg)
-
-**Minimal Windows by [Henrique](https://github.com/Henriquehnnm)**
-
-![Min-linux](min-windows.jpg)
-
-**Minimal Windows 11 by [Smolder](https://github.com/smolderdev)**
-
-![Min-linux](min-windows-new.png)
-
-**Minimal Mac by [Henrique](https://github.com/Henriquehnnm)**
-
-![Min-linux](min-mac.jpg)
-
-## Arch BTW
-
-**Arch BTW by [Henrique](https://github.com/Henriquehnnm)**
-
-![Arch-main](Arch.png)
-
-**Arch BTW Moon by [Henrique](https://github.com/Henriquehnnm)**
-
-![Arch-main](Arch_moon.png)
-
-**Arch BTW Dawn by [Henrique](https://github.com/Henriquehnnm)**
-
-![Arch-main](Arch_dawn.png)
+![Ascii Dawn](illustration/ascii-dawn.png)
 
 ## [Generative](https://github.com/chunghha/go-rosepine-genart)
 
 **_Circle_ by [Chunghha](https://github.com/chunghha)**
 
-![Circle](rose_pine_circle.png)
+![Circle](generative/circle.png)
 
-**_Circle2_ by [Chunghha](https://github.com/chunghha)**
+**_Circle 2_ by [Chunghha](https://github.com/chunghha)**
 
-![Circle](rose_pine_circle2.png)
+![Circle 2](generative/circle-2.png)
 
-**_ContourLine_ by [Chunghha](https://github.com/chunghha)**
+**_Contour Line_ by [Chunghha](https://github.com/chunghha)**
 
-![Circle](rose_pine_contourline.png)
+![Contour Line](generative/contour-line.png)
 
 **_Maze_ by [Chunghha](https://github.com/chunghha)**
 
-![Maze](rose_pine_maze.png)
+![Maze](generative/maze.png)
 
-**_NoiseLine_ by [Chunghha](https://github.com/chunghha)**
+**_Noise Line_ by [Chunghha](https://github.com/chunghha)**
 
-![Maze](rose_pine_noiseline.png)
+![Noise Line](generative/noise-line.png)
 
 **_Shape_ by [Chunghha](https://github.com/chunghha)**
 
-![Maze](rose_pine_shape.png)
+![Shape](generative/shape.png)
+
+## OS
+
+**_Linux_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Linux](os/linux.jpg)
+
+**_Debian_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Debian](os/debian.jpg)
+
+**_Arch_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Arch](os/arch.jpg)
+
+**_Fedora_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Fedora](os/fedora.jpg)
+
+**_Windows_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Windows](os/windows.jpg)
+
+**_Windows 11_ by [Smolder](https://github.com/smolderdev)**
+
+![Windows 11](os/windows-11.png)
+
+**_Mac_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Mac](os/mac.jpg)
+
+**_Arch BTW_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Arch BTW](os/arch-btw.png)
+
+**_Arch BTW (Moon)_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Arch BTW Moon](os/arch-btw-moon.png)
+
+**_Arch BTW (Dawn)_ by [Henrique](https://github.com/Henriquehnnm)**
+
+![Arch BTW Dawn](os/arch-btw-dawn.png)
+
+## Minecraft
+
+**_Snow Pine Forest_ by [ne](https://github.com/neyfua)**
+
+![Snow Pine Forest](minecraft/snow-pine-forest.png)
+
+**_Snow Mountain Range_ by [ne](https://github.com/neyfua)**
+
+![Snow Mountain Range](minecraft/snow-mountain-range.jpg)
+
+**_Snow Hills Sunset_ by [ne](https://github.com/neyfua)**
+
+![Snow Hills Sunset](minecraft/snow-hills-sunset.png)
+
+**_Snow Plains Evening_ by [ne](https://github.com/neyfua)**
+
+![Snow Plains Evening](minecraft/snow-plains-evening.jpg)
+
+**_Snow Night Moon_ by [ne](https://github.com/neyfua)**
+
+![Snow Night Moon](minecraft/snow-night-moon.png)
+
+**_Snow Desert Sunset_ by [ne](https://github.com/neyfua)**
+
+![Snow Desert Sunset](minecraft/snow-desert-sunset.jpg)
+
+**_Cave Sunset View_ by [ne](https://github.com/neyfua)**
+
+![Cave Sunset View](minecraft/cave-sunset-view.png)
+
+**_Dark House Rain_ by [ne](https://github.com/neyfua)**
+
+![Dark House Rain](minecraft/dark-house-rain.png)
 
 ## Photography
 
@@ -140,98 +183,64 @@
 
 ### Photos by Kainoa Kanter
 
-**_🌙 Moon_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
+**_Moon_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![moon](moon.jpg)
+![Moon](photography/kainoa-kanter/moon.jpg)
 
 **_Clouds_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![clouds](clouds.JPG)
+![Clouds](photography/kainoa-kanter/clouds.jpg)
 
 **_Bay_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![bay](bay.JPG)
+![Bay](photography/kainoa-kanter/bay.jpg)
 
 **_Flower_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![flower](flower.jpg)
+![Flower](photography/kainoa-kanter/flower.jpg)
 
 **_Field_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![field](field.jpg)
+![Field](photography/kainoa-kanter/field.jpg)
 
 **_Ocean Drone I_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![oceandrone1](oceandrone1.JPG)
+![Ocean Drone I](photography/kainoa-kanter/ocean-drone-1.jpg)
 
 **_Ocean Drone II_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![oceandrone2](oceandrone2.JPG)
+![Ocean Drone II](photography/kainoa-kanter/ocean-drone-2.jpg)
 
 **_Point Overhead_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![pointoverhead](pointoverhead.jpg)
+![Point Overhead](photography/kainoa-kanter/point-overhead.jpg)
 
 **_Rocks_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![rocks](rocks.jpg)
+![Rocks](photography/kainoa-kanter/rocks.jpg)
 
 **_Roses_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![roses](roses.jpg)
+![Roses](photography/kainoa-kanter/roses.jpg)
 
 **_Seals_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![seals](seals.jpg)
+![Seals](photography/kainoa-kanter/seals.jpg)
 
 **_Sea Slug_ by [Kainoa Kanter](https://github.com/thatonecalculator)**
 
-![seaslug](seaslug.jpg)
+![Sea Slug](photography/kainoa-kanter/sea-slug.jpg)
 
 ### Photos by single_celled_photography
 
 **_River_ by [single_celled_photography](https://www.instagram.com/single_celled_photography/)**
 
-![river](river.jpg)
+![River](photography/single-celled/river.jpg)
 
 **_River Tree_ by [single_celled_photography](https://www.instagram.com/single_celled_photography/)**
 
-![river_tree](river_tree.jpg)
+![River Tree](photography/single-celled/river-tree.jpg)
 
 **_Through the Branches_ by [single_celled_photography](https://www.instagram.com/single_celled_photography/)**
 
-![through_the_branches](through_the_branches.jpg)
-
-## Game
-
-**Minecraft Snow Pine Forest by [ne](https://github.com/neyfua)**
-
-![mc_snow_pine_forest](MC_snow_pine_forest.png)
-
-**Minecraft Snow Mountain Range by [ne](https://github.com/neyfua)**
-
-![mc_snow_mountain_range](MC_snow_mountain_range.jpg)
-
-**Minecraft Snow Hills Sunset by [ne](https://github.com/neyfua)**
-
-![mc_snow_hills_sunset](MC_snow_hills_sunset.png)
-
-**Minecraft Snow Plains Evening by [ne](https://github.com/neyfua)**
-
-![mc_snow_plains_evening](MC_snow_plains_evening.jpg)
-
-**Minecraft Snow Night Moon by [ne](https://github.com/neyfua)**
-
-![mc_snow_night_moon](MC_snow_night_moon.png)
-
-**Minecraft Snow Desert Sunset by [ne](https://github.com/neyfua)**
-
-![mc_snow_desert_sunset](MC_snow_desert_sunset.jpg)
-
-**Minecraft Cave Sunset View by [ne](https://github.com/neyfua)**
-
-![mc_cave_sunset_view](MC_cave_sunset_view.png)
-
-**Minecraft Dark House Rain by [ne](https://github.com/neyfua)**
-
-![mc_dark_house_rain](MC_dark_house_rain.png)
+![Through the Branches](photography/single-celled/through-the-branches.jpg)
