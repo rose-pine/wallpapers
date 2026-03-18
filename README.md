@@ -177,6 +177,26 @@
 
 ![Dark House Rain](minecraft/dark-house-rain.png)
 
+**_Intaria Triple_ by [nnhomoli](https://github.com/nnhomoli)**
+
+![Intaria Triple](minecraft/intaria-triple.webp)
+
+**_Stahlgrave Tower_ by [nnhomoli](https://github.com/nnhomoli)**
+
+![Stahlgrave Tower](minecraft/stahlgrave-tower.webp)
+
+**_Tengoku Below_ by [nnhomoli](https://github.com/nnhomoli)**
+
+![Tengoku Below](minecraft/tengoku-below.webp)
+
+**_Tengoku Overtop_ by [nnhomoli](https://github.com/nnhomoli)**
+
+![Tengoku Overtop](minecraft/tengoku-overtop.webp)
+
+**_Tengoku Underthee_ by [nnhomoli](https://github.com/nnhomoli)**
+
+![Tengoku Underthee](minecraft/tengoku-underthee.webp)
+
 ## Photography
 
 > *All photographs below are licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
