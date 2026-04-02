@@ -75,6 +75,14 @@
 
 ![Ascii Dawn](illustration/ascii-dawn.png)
 
+**_Obliquas Light_ by [W47K3R9](https://github.com/W47K3R9)**
+
+![Obliquas Light](illustration/obliquas-light.jpg)
+
+**_Obliquas Dark_ by [W47K3R9](https://github.com/W47K3R9)**
+
+![Obliquas Dark](illustration/obliquas-dark.jpg)
+
 ## [Generative](https://github.com/chunghha/go-rosepine-genart)
 
 **_Circle_ by [Chunghha](https://github.com/chunghha)**
