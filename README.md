@@ -113,6 +113,14 @@
 
 ![Tower Horizon](illustration/tower-horizon.jpg)
 
+**16x Scale Symbol by [PuddingisPOG](https://github.com/PuddingisPOG)**
+
+![16x Scale Symbol](illustration/16scale.png)
+
+**8x Scale Symbol by [PuddingisPOG](https://github.com/PuddingisPOG)**
+
+![8x Scale Symbol](illustration/8scale.png)
+
 ## [Generative](https://github.com/chunghha/go-rosepine-genart)
 
 **_Circle_ by [Chunghha](https://github.com/chunghha)**
