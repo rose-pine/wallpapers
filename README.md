@@ -166,6 +166,10 @@
 
 ![Fedora](os/fedora.jpg)
 
+**_NixOS_ by [n0op3](https://github.com/n0op3)**
+
+![NixOS](os/nix.jpg)
+
 **_Windows_ by [Henrique](https://github.com/Henriquehnnm)**
 
 ![Windows](os/windows.jpg)
