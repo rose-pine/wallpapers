@@ -162,6 +162,10 @@
 
 ![Arch](os/arch.jpg)
 
+**_CachyOS_ by [whyevery](https://github.com/whyevery)**
+
+![CachyOS](os/cachy.png)
+
 **_Fedora_ by [Henrique](https://github.com/Henriquehnnm)**
 
 ![Fedora](os/fedora.jpg)
